@@ -1,0 +1,6 @@
+framework module Pods_FcmDemo {
+  umbrella header "Pods-FcmDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
